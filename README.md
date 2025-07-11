@@ -1,10 +1,10 @@
-# 👔 Project Title: HandsMen Threads – Salesforce CRM for Fashion Business
+#  Project Title: HandsMen Threads – Salesforce CRM for Fashion Business
 
 This is a Salesforce DX project developed for a premium men's fashion brand. The goal of this project is to automate order processing, monitor inventory, and improve customer engagement using Salesforce Flows, Apex triggers, batch jobs, and declarative tools.
 
-## 🚀 Key Features
+##  Key Features
 
-- 🧾 Custom Objects: HandsMen Customer, Product, Order, Inventory, Marketing Campaign
+-  Custom Objects: HandsMen Customer, Product, Order, Inventory, Marketing Campaign
 -  Validation Rules: Enforce quantity limits based on order status
 -  Automation with Flows:
   - Order Confirmation Email Flow
@@ -26,7 +26,7 @@ This is a Salesforce DX project developed for a premium men's fashion brand. The
 This project is hosted on GitHub:  
 https://github.com/Syedhamish/HandsMen-Threads_Men-s-Fashion_project
 
-## 🙋‍♂️ Developer & Contact
+##  Developer & Contact
 
  Name: Syed Hamish  
  Email: syedhamish99453@agentforce.com  
