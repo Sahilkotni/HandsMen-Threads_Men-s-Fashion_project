@@ -1,23 +1,34 @@
-# 📄 Documentation
+# 👔 Project Title: HandsMen Threads – Salesforce CRM for Fashion Business
 
-View full project documentation here:  
-[Click to Open PDF](docs/HandsMen_Threads_Salesforce_Documentation7.pdf)
+This is a Salesforce DX project developed for a premium men's fashion brand. The goal of this project is to automate order processing, monitor inventory, and improve customer engagement using Salesforce Flows, Apex triggers, batch jobs, and declarative tools.
 
-# Salesforce DX Project: Next Steps
+## 🚀 Key Features
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+- 🧾 Custom Objects: HandsMen Customer, Product, Order, Inventory, Marketing Campaign
+-  Validation Rules: Enforce quantity limits based on order status
+-  Automation with Flows:
+  - Order Confirmation Email Flow
+  - Loyalty Program Status Flow (Scheduled)
+  - Low Stock Alert Email Flow
+- Apex Development:
+  - InventoryBatchJob (Scheduled Apex for nightly restocking)
+  - OrderTriggerHandler (Trigger handler for order validations)
+- Classic Email Templates for communication
+- Roles & Permission Sets for Inventory and Marketing
+- Version-controlled with Git and synced to GitHub
 
-## How Do You Plan to Deploy Your Changes?
+##  Project Documentation (PDF)
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+📄 [Click to View Full Documentation](docs/HandsMen_Threads_Salesforce_Documentation7.pdf)
 
-## Configure Your Salesforce DX Project
+## 🔗 GitHub Repository
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+This project is hosted on GitHub:  
+https://github.com/Syedhamish/HandsMen-Threads_Men-s-Fashion_project
 
-## Read All About It
+## 🙋‍♂️ Developer & Contact
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+ Name: Syed Hamish  
+ Email: syedhamish99453@agentforce.com  
+ Role: Salesforce Developer & Intern  
+ Project Status: Completed and Deployed to GitHub
